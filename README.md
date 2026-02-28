@@ -1,17 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🏋️ FitStudent AI – AI Powered Fitness Tracker for Students
 
-# Run and deploy your AI Studio app
+FitStudent AI is a full-stack fitness web application designed specifically for students who want to maintain a healthy lifestyle while managing academic pressure.
 
-This contains everything you need to run your app locally.
+The application allows users to:
 
-View your app in AI Studio: https://ai.studio/apps/26db3df6-d53b-40ce-9898-8aef547eba32
+Track workouts and fitness activities
 
-## Run Locally
+Store fitness records securely
 
-**Prerequisites:**  Node.js
+Monitor progress over time
 
+Manage health goals
+
+Maintain structured workout history
+
+The project is built using modern web technologies and demonstrates full-stack development concepts including frontend development, backend API handling, and database integration.
 
 1. Install dependencies:
    `npm install`
